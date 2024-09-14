@@ -20,23 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ebook resumo sobre IA generativa Copilot)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ebook gerato com IA - Chat GPT
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Apenas Chat GPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Dei o seguinte comando ao Chat GPT: crie um ebook resumo sobre IA generativa Copilot.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Ele me apresentou um ebook.](https://chatgpt.com/share/66e4d1b7-d228-8007-9b8b-2146d11d439f)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Tenho trabalhado educando o chat GPT e gostaria de expandir meus conhecimentos e aplicações com os demais recursos de IA generativa. Meu próximo passo é criar vídeos usando minha voz e imagem.
 
 ### Exemplos e Insigths
 
